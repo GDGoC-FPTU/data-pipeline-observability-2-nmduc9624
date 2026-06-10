@@ -1,8 +1,8 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** nmduc9624
-**Name:** nmduc9624
-**Date:** 2026-06-10
+**Student ID:** 2A202600808  
+**Name:** Nguyen Minh Duc  
+**Date:** 2026-06-10  
 
 ---
 
